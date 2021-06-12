@@ -1,0 +1,4 @@
+language = "java11"
+run = "mvn spring-boot:run"
+
+#&& java -jar springboot.jar
